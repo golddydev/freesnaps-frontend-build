@@ -39,7 +39,7 @@
       rel="stylesheet"
       href="https://fonts.googleapis.com/css?family=Poppins"
     />
-    <script type="module" crossorigin src="/assets/index.d98ab051.js"></script>
+    <script type="module" crossorigin src="/assets/index.6e5dcdfb.js"></script>
     <link rel="stylesheet" href="/assets/index.872eb4aa.css">
   </head>
   <body>
